@@ -12,3 +12,6 @@
     7. Do Not Close exe File From BackGround .
     8. Then You See Bot Is Online Very Simple Steps.
 -----------------------------------------------------
+# TOUTORIAL VIDEO LINK : 
+-----------------------------------------------------
+https://youtu.be/amVZcbsEjA8?si=jYPDxqcmduUDgf0b
